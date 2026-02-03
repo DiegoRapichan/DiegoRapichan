@@ -61,13 +61,6 @@ Plataforma para validação automática de código JavaScript e Python.
 
 ---
 
-## 📊 GitHub Stats
-
-![Diego's GitHub stats](https://github-readme-stats.vercel.app/api?username=DiegoRapichan&show_icons=true&theme=radical)
-
-![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=DiegoRapichan&layout=compact&theme=radical)
-
----
 
 ## 🌱 Atualmente
 
@@ -103,9 +96,3 @@ Acredito em:
 
 ---
 
-<div align="center">
-  
-### 📈 Visitor Count
-  
-![Visitor Count](https://profile-counter.glitch.me/DiegoRapichan/count.svg)
-</div>
