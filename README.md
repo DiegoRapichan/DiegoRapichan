@@ -298,7 +298,7 @@ console.log("Let's build something amazing together! 🚀");
 
 ---
 
-![Snake animation](https://github.com/DiegoRapichan/DiegoRapichan/blob/output/github-contribution-grid-snake.svg)
+![Snake animation](https://raw.githubusercontent.com/DiegoRapichan/DiegoRapichan/output/github-contribution-grid-snake-dark.svg)
 
 ---
 
