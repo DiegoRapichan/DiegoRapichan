@@ -1,0 +1,50 @@
+name: Generate Snake
+
+on:
+  # Executa a cada 12 horas
+  schedule:
+    - cron: "0 */12 * * *"
+  
+  # Permite executar manualmente
+  workflow_dispatch:
+  
+  # Executa quando fizer push na main
+  push:
+    branches:
+      - main
+
+jobs:
+  build:
+    runs-on: ubuntu-latest
+    
+    steps:
+      # Checkout do repositório
+      - name: Checkout
+        uses: actions/checkout@v3
+      
+      # Gera o Snake
+      - name: Generate Snake
+        uses: Platane/snk@v3
+        with:
+          github_user_name: DiegoRapichan
+          outputs: |
+            dist/github-contribution-grid-snake.svg
+            dist/github-contribution-grid-snake-dark.svg?palette=github-dark
+            dist/github-contribution-grid-snake.gif?color_snake=orange&color_dots=#bfd6f6,#8dbdff,#64a1f4,#4b91f1,#3c7dd9
+      
+      # Commit e push dos arquivos gerados
+      - name: Push to GitHub
+        uses: ad-m/github-push-action@master
+        with:
+          github_token: ${{ secrets.GITHUB_TOKEN }}
+          branch: output
+          force: true
+
+      # Deploy no GitHub Pages (opcional)
+      - name: Deploy to GitHub Pages
+        uses: crazy-max/ghaction-github-pages@v3.1.0
+        with:
+          target_branch: output
+          build_dir: dist
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
