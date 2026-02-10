@@ -3,7 +3,7 @@
 [![Profile Views](https://komarev.com/ghpvc/?username=DiegoRapichan&color=blueviolet&style=flat-square)](https://github.com/DiegoRapichan)
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-Connect-0077B5?style=flat-square&logo=linkedin)](https://linkedin.com/in/diego-rapichan)
 [![Email](https://img.shields.io/badge/Email-Contact-D14836?style=flat-square&logo=gmail&logoColor=white)](mailto:direrapichan@gmail.com)
-[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/DiegoRapichan)
+[![Portfolio](https://img.shields.io/badge/Portfolio-Visit-4CAF50?style=flat-square&logo=google-chrome&logoColor=white)](https://github.com/DiegoRapichan) 
 
 ## 🚀 Sobre mim
 
