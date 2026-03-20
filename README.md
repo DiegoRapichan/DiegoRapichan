@@ -1,5 +1,5 @@
 # Diego Colombari Rapichan
-
+ 
 **Desenvolvedor Full Stack** · Java · Spring Boot · Node.js · TypeScript · React
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-diego--rapichan-0077B5?style=flat&logo=linkedin)](https://linkedin.com/in/diego-rapichan)
