@@ -85,7 +85,7 @@ Delphi + Oracle Database em ambiente de produção. Otimização de queries SQL 
 
 - Tecnólogo em IA e Automação Digital · **Rocketseat + UniFECAF** · 2026–2027 *(em andamento)*
 - Pós-graduação Desenvolvimento Full Stack · Descomplica · 2025–2026 *(em andamento)*
-- Pós-graduação IA e Machine Learning · Anhanguera · 2025–2026 *(em andamento)*
+- Pós-graduação IA e Machine Learning · Anhanguera · 2025–2026 *(concluída)*
 - Pós-graduação Desenvolvimento de Sistemas com Python · Unicesumar · 2026–2027 *(em andamento)*
 - Pós-graduação Desenvolvimento OO com Java · Unicesumar · 2011 *(concluída)*
 - Bacharelado em Sistemas de Informação · FAP · 2007 *(concluída)*
